@@ -1,5 +1,5 @@
-Welcome to Lumache's documentation!
-===================================
+``pypsucurvetrace`` documentation
+=================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
@@ -18,5 +18,6 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   curvetrace
+   curveplot
+   curveprocess
