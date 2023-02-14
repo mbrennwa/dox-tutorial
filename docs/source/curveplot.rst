@@ -1,5 +1,5 @@
-API
-===
+``curveplot``
+=============
 
 .. autosummary::
    :toctree: generated

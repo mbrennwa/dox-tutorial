@@ -1,5 +1,5 @@
-API
-===
+``curvetrace``
+==============
 
 .. autosummary::
    :toctree: generated

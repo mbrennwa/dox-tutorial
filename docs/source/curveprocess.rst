@@ -1,5 +1,5 @@
-API
-===
+``curveprocess``
+================
 
 .. autosummary::
    :toctree: generated
